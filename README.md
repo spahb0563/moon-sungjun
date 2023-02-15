@@ -1,7 +1,7 @@
 # MOON SUNGJUN
 
 ![Moon's GitHub stats](https://github-readme-stats.vercel.app/api?username=spahb0563&show_icons=true&theme=radical&card_width=100)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=spahb0563)](https://solved.ac/spahb0563/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=spahb0563)](https://solved.ac/spahb0563)
 
 # 💪Skills
 ### Platforms & Languages
